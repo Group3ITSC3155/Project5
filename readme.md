@@ -4,6 +4,6 @@
 ## Scrum Master
 \<Team Member Name\>
 ## Developers
-- \<Team Member Name\>
+Camden Cotten
 - \<Team Member Name\>
 - \<Team Member Name\>
