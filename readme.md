@@ -4,6 +4,6 @@
 ## Scrum Master
 \<Team Member Name\>
 ## Developers
-Camden Cotten
-Efren Antonio
+- Camden Cotten
+- Efren Antonio
 - \<Team Member Name\>
