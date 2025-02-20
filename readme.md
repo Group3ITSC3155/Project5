@@ -6,4 +6,5 @@
 ## Developers
 - Camden Cotten
 - Efren Antonio
+- Kimbrale Burris
 - \<Team Member Name\>
