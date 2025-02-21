@@ -7,4 +7,5 @@
 - Camden Cotten
 - Efren Antonio
 - Kimbrale Burris
+- Michael Byrd
 - \<Team Member Name\>
