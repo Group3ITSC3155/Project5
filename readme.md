@@ -1,12 +1,12 @@
 # \<Project Name\> Scrum Team
 ## Product Owner
-\<Team Member Name\>
+-Todd Dobbs
 ## Scrum Master
-\<Team Member Name\>
+-Alan Urzua
 ## Developers
 - Camden Cotten
 - Efren Antonio
 - Kimbrale Burris
 - Michael Byrd
 - Aiden Brown
-- \<Team Member Name\>
+
