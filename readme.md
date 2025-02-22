@@ -2,9 +2,9 @@
 ## Product Owner
 - Todd Dobbs
 ## Scrum Master
-- Alan Urzua
+- Camden Cotten 
 ## Developers
-- Camden Cotten
+- Alan Urzua
 - Efren Antonio
 - Kimbrale Burris
 - Michael Byrd
