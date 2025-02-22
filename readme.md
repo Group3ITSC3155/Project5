@@ -8,4 +8,5 @@
 - Efren Antonio
 - Kimbrale Burris
 - Michael Byrd
+- Aiden Brown
 - \<Team Member Name\>
