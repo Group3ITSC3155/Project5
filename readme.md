@@ -1,8 +1,8 @@
 # \<Project Name\> Scrum Team
 ## Product Owner
--Todd Dobbs
+- Todd Dobbs
 ## Scrum Master
--Alan Urzua
+- Alan Urzua
 ## Developers
 - Camden Cotten
 - Efren Antonio
