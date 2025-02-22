@@ -1,2 +1,18 @@
-node_modules/
-compiled/
+# Ignore everything by default
+*
+
+# Unignore these files
+!components/topBar/TopBar.css
+!components/topBar/TopBar.jsx
+!components/userDetail/userDetail.css
+!components/userDetail/userDetail.jsx
+!components/userList/userList.css
+!components/userList/userList.jsx
+!components/userPhotos/userPhotos.css
+!components/userPhotos/userPhotos.jsx
+!lib/fetchModelData.js
+!photo-share.html
+!photoShare.jsx
+!.gitignore
+!readme.md
+!styles/main.css
